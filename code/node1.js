@@ -4,6 +4,8 @@ a=20
 b=30
 console.log(a+b)
 
+console.log(undefine +1)
+
 
 const Demo=(a=0,b=0)=>{
     return a+b;
@@ -49,4 +51,9 @@ function Multi(x){
     }
 }
 Multi(20)(30)
+
+
+
+
+// *****************************888
 
