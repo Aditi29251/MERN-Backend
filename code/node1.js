@@ -4,7 +4,7 @@ a=20
 b=30
 console.log(a+b)
 
-console.log(undefine +1)
+
 
 
 const Demo=(a=0,b=0)=>{
