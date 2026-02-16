@@ -23,7 +23,6 @@ app.get('/about',(req,res)=>{
         // passing data to ejs file   
         // data must be in a object while passing 
         
-
         // result act as a wrapper
         const result={data:obj}
 
