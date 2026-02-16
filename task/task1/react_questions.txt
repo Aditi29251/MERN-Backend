@@ -59,6 +59,7 @@ const CourseDetails = () => {
 
 
 10.<div>
-  {isLoggedIn ? <p>Welcome back!</p> : <p>Please login</p>}
+  {condition ? <p>Condition is true!</p> : <p>Condition is false!</p>}
 </div>
+
 
